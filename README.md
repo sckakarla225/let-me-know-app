@@ -1,2 +1,2 @@
-# let-me-know-app
-generate custom AI tracking agents with a single command
+# Let Me Know (LMK)
+Generate custom AI tracking agents with a simple prompt
